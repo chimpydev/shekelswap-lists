@@ -31,7 +31,7 @@
         },
         {
             "name": "USDC Bridged",
-            "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
             "symbol": "USDC.e",
             "decimals": 6,
             "chainId": 42161,
@@ -39,11 +39,27 @@
         },
         {
             "name": "DAI Stablecoin",
-            "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
             "symbol": "DAI",
             "decimals": 18,
             "chainId": 42161,
             "logoURI": "https://i.ibb.co/sq9KVD0/dai.png"
+        },
+        {
+            "name": "Tether USD",
+            "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 42161,
+            "logoURI": "https://arbiscan.io/token/images/tether_32.png"
+        },
+        {
+            "name": "Magic Internet Money",
+            "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+            "symbol": "MIM",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://arbiscan.io/token/images/mimstablecoin_32.png"
         }
     ]
   }
