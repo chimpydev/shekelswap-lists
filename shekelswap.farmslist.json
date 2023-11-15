@@ -71,14 +71,16 @@
          "lpName": "SHEKEL-ETH",
          "rewardToken":"0xF549Ce4082978524f651DEC918E738EEfE77c3bC",
          "pair":"0x164b92b1519724E18e651c37CB14F4267c1846f6"
-      },
+      }
+   ],
+   "closed":[
       {
          "tokens":[
             "0x9748C5Db8e671ba2146f3Dc4F7CfD509BFB7E555",
             "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
          ],
          "stakingRewardAddress":"0x6b98ca299668Ed15852B2952ABAaD9932a7F2148",
-         "ended":false,
+         "ended":true,
          "lp":"",
          "name":"",
          "baseToken":"0xaf88d065e77c8cc2239327c5edb3a432268e5831",
@@ -91,7 +93,5 @@
          "rewardToken":"0xF549Ce4082978524f651DEC918E738EEfE77c3bC",
          "pair":"0x1DB8dBFffbCc9a7DA3F7DC245d69B69dAB5fB8dE"
       }
-   ],
-   "closed":[
    ]
 }
