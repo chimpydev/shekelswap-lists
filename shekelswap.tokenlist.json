@@ -13,21 +13,29 @@
       "default"
     ],
     "tokens": [
-       {
+        {
+            "name": "Shekel Token",
+            "address": "0xF549Ce4082978524f651DEC918E738EEfE77c3bC",
+            "symbol": "SHEKEL",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://i.ibb.co/0fTQqkV/0xd07379a755a8f11b57610154861d694b2a0f615a.png"
+        },
+        {
+            "name": "gShekel Token",
+            "address": "0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
+            "symbol": "gSHEKEL",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://i.ibb.co/6RYGH1j/0xee32ed3ac2a431a0f0e1dbba46ba27ae8d072902.png"
+        },
+        {
             "name": "Wrapped ETH",
             "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
             "symbol": "WETH",
             "decimals": 18,
             "chainId": 42161,
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
-        },
-        {
-            "name": "Appreciating ETH",
-            "address": "0x9748C5Db8e671ba2146f3Dc4F7CfD509BFB7E555",
-            "symbol": "aETH",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://i.ibb.co/fN8fYgB/a-ETH-logo.png"
         },
         {
             "name": "USD Coin",
