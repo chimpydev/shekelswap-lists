@@ -26,12 +26,12 @@
          "name":"",
          "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
          "rate": 0,
-         "rewardsRatio1": 1,
-         "rewardsRatio2": 0,
+         "rewardsRatio1": 0,
+         "rewardsRatio2": 1,
          "voteable": false,
          "poolPid": 0,
          "lpName": "ETH-USDC.e",
-         "rewardToken":"0xF549Ce4082978524f651DEC918E738EEfE77c3bC",
+         "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
          "pair":"0x8C09A7104ec5F59bb716E40Aee97fcfB9c6255e1"
       },
       {
@@ -45,12 +45,12 @@
          "name":"",
          "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
          "rate": 0,
-         "rewardsRatio1": 1,
-         "rewardsRatio2": 0,
+         "rewardsRatio1": 0,
+         "rewardsRatio2": 1,
          "voteable": false,
          "poolPid": 1,
          "lpName": "ETH-USDC",
-         "rewardToken":"0xF549Ce4082978524f651DEC918E738EEfE77c3bC",
+         "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
          "pair":"0x7C23db5a69Cc1d40a53F91D553F299528d6aE0D6"
       },
       {
@@ -64,13 +64,70 @@
          "name":"",
          "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
          "rate": 0,
-         "rewardsRatio1": 1,
-         "rewardsRatio2": 0,
+         "rewardsRatio1": 0,
+         "rewardsRatio2": 1,
          "voteable": false,
          "poolPid": 2,
          "lpName": "SHEKEL-ETH",
-         "rewardToken":"0xF549Ce4082978524f651DEC918E738EEfE77c3bC",
+         "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
          "pair":"0x164b92b1519724E18e651c37CB14F4267c1846f6"
+      },
+      {
+         "tokens":[
+            "0x912CE59144191C1204E64559FE8253a0e49E6548",
+            "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+         ],
+         "stakingRewardAddress":"0x37646ab88E853e62B9e4dB13673CAFc7d52aE068",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+         "rate": 0,
+         "rewardsRatio1": 0,
+         "rewardsRatio2": 1,
+         "voteable": false,
+         "poolPid": 5,
+         "lpName": "ARB-ETH",
+         "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
+         "pair":"0xe8F48bd7C8a859d606d0F3ED6c979fAdB15a5411"
+      },
+      {
+         "tokens":[
+            "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+            "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+         ],
+         "stakingRewardAddress":"0x71c3723012D71049CA1D77e3b0829172F8c5025a",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+         "rate": 0,
+         "rewardsRatio1": 0,
+         "rewardsRatio2": 1,
+         "voteable": false,
+         "poolPid": 6,
+         "lpName": "USDC-USDT",
+         "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
+         "pair":"0xC38D4E6008AD50A0E1D3b8c54BF2e0B86E17Bde4"
+      },
+      {
+         "tokens":[
+            "0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
+            "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+         ],
+         "stakingRewardAddress":"0xd0B9bf0039103b7E6861F6d17eCF7e611Ad682ab",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+         "rate": 0,
+         "rewardsRatio1": 0,
+         "rewardsRatio2": 1,
+         "voteable": false,
+         "poolPid": 7,
+         "lpName": "gSHEKEL-ETH",
+         "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
+         "pair":"0x534916bF489aA92551b9AbBD1A517844a6E93d87"
       }
    ],
    "closed":[
@@ -85,12 +142,12 @@
          "name":"",
          "baseToken":"0xaf88d065e77c8cc2239327c5edb3a432268e5831",
          "rate": 0,
-         "rewardsRatio1": 1,
-         "rewardsRatio2": 0,
+         "rewardsRatio1": 0,
+         "rewardsRatio2": 1,
          "voteable": false,
          "poolPid": 3,
          "lpName": "AETH-USDC",
-         "rewardToken":"0xF549Ce4082978524f651DEC918E738EEfE77c3bC",
+         "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
          "pair":"0x1DB8dBFffbCc9a7DA3F7DC245d69B69dAB5fB8dE"
       }
    ]
