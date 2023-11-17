@@ -4,7 +4,7 @@
    "version":{
       "major":1,
       "minor":0,
-      "patch":25
+      "patch":26
    },
    "tags":{
       
@@ -15,6 +15,44 @@
       "default"
    ],
    "active":[
+      {
+         "tokens":[
+            "0xF549Ce4082978524f651DEC918E738EEfE77c3bC",
+            "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+         ],
+         "stakingRewardAddress":"0x41fc7E1d439030eD4Cc2F8efa65A0E9C5BafC06a",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+         "rate": 0,
+         "rewardsRatio1": 0,
+         "rewardsRatio2": 1,
+         "voteable": false,
+         "poolPid": 2,
+         "lpName": "SHEKEL-ETH",
+         "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
+         "pair":"0x164b92b1519724E18e651c37CB14F4267c1846f6"
+      },
+      {
+         "tokens":[
+            "0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
+            "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+         ],
+         "stakingRewardAddress":"0xd0B9bf0039103b7E6861F6d17eCF7e611Ad682ab",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+         "rate": 0,
+         "rewardsRatio1": 0,
+         "rewardsRatio2": 1,
+         "voteable": false,
+         "poolPid": 7,
+         "lpName": "gSHEKEL-ETH",
+         "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
+         "pair":"0x534916bF489aA92551b9AbBD1A517844a6E93d87"
+      },
       {
          "tokens":[
             "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
@@ -55,25 +93,6 @@
       },
       {
          "tokens":[
-            "0xF549Ce4082978524f651DEC918E738EEfE77c3bC",
-            "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
-         ],
-         "stakingRewardAddress":"0x41fc7E1d439030eD4Cc2F8efa65A0E9C5BafC06a",
-         "ended":false,
-         "lp":"",
-         "name":"",
-         "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-         "rate": 0,
-         "rewardsRatio1": 0,
-         "rewardsRatio2": 1,
-         "voteable": false,
-         "poolPid": 2,
-         "lpName": "SHEKEL-ETH",
-         "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
-         "pair":"0x164b92b1519724E18e651c37CB14F4267c1846f6"
-      },
-      {
-         "tokens":[
             "0x912CE59144191C1204E64559FE8253a0e49E6548",
             "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
          ],
@@ -109,25 +128,6 @@
          "lpName": "USDC-USDT",
          "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
          "pair":"0xC38D4E6008AD50A0E1D3b8c54BF2e0B86E17Bde4"
-      },
-      {
-         "tokens":[
-            "0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
-            "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
-         ],
-         "stakingRewardAddress":"0xd0B9bf0039103b7E6861F6d17eCF7e611Ad682ab",
-         "ended":false,
-         "lp":"",
-         "name":"",
-         "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-         "rate": 0,
-         "rewardsRatio1": 0,
-         "rewardsRatio2": 1,
-         "voteable": false,
-         "poolPid": 7,
-         "lpName": "gSHEKEL-ETH",
-         "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
-         "pair":"0x534916bF489aA92551b9AbBD1A517844a6E93d87"
       }
    ],
    "closed":[
