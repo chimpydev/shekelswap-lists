@@ -38,6 +38,14 @@
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
         },
         {
+            "name": "Arbitrum",
+            "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+            "symbol": "ARB",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://arbiscan.io/token/images/arbitrumone2_32_new.png"
+        },
+        {
             "name": "USD Coin",
             "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
             "symbol": "USDC",
@@ -76,6 +84,30 @@
             "decimals": 18,
             "chainId": 42161,
             "logoURI": "https://arbiscan.io/token/images/mimstablecoin_32.png"
+        },
+        {
+            "name": "USD+",
+            "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+            "symbol": "USD+",
+            "decimals": 6,
+            "chainId": 42161,
+            "logoURI": "https://arbiscan.io/token/images/overnightusd_32.png"
+        },
+        {
+            "name": "DAI+",
+            "address": "0xeb8E93A0c7504Bffd8A8fFa56CD754c63aAeBFe8",
+            "symbol": "DAI+",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://arbiscan.io/token/images/overnightdai_32.png"
+        },
+        {
+            "name": "YieldFarming Index",
+            "address": "0xaaE0c3856e665ff9b3E2872B6D75939D810b7E40",
+            "symbol": "YFX",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://arbiscan.io/token/images/yfxprotocol_32.png"
         }
     ]
   }
