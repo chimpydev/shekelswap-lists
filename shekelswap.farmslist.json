@@ -25,7 +25,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-         "rate": 100,
+         "rate": 0,
          "rewardsRatio1": 0,
          "rewardsRatio2": 1,
          "voteable": false,
