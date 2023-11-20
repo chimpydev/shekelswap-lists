@@ -25,7 +25,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-         "rate": 350,
+         "rate": 375,
          "rewardsRatio1": 0,
          "rewardsRatio2": 1,
          "voteable": false,
@@ -44,7 +44,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-         "rate": 350,
+         "rate": 325,
          "rewardsRatio1": 0,
          "rewardsRatio2": 1,
          "voteable": false,
@@ -63,7 +63,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-         "rate": 200,
+         "rate": 250,
          "rewardsRatio1": 0,
          "rewardsRatio2": 1,
          "voteable": false,
@@ -82,7 +82,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-         "rate": 200,
+         "rate": 250,
          "rewardsRatio1": 0,
          "rewardsRatio2": 1,
          "voteable": false,
@@ -128,6 +128,44 @@
          "lpName": "USDC-USDT",
          "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
          "pair":"0xC38D4E6008AD50A0E1D3b8c54BF2e0B86E17Bde4"
+      },
+      {
+         "tokens":[
+            "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+            "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
+         ],
+         "stakingRewardAddress":"0xDB6bb064bC8E44d9C94440283d95F811689B3520",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+         "rate": 100,
+         "rewardsRatio1": 0,
+         "rewardsRatio2": 1,
+         "voteable": false,
+         "poolPid": 8,
+         "lpName": "USD+-USDC",
+         "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
+         "pair":"0x0627DCDCA49d749583c6a00327eb5E3846E265D3"
+      },
+      {
+         "tokens":[
+            "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+            "0xeb8E93A0c7504Bffd8A8fFa56CD754c63aAeBFe8"
+         ],
+         "stakingRewardAddress":"0xf45e5485fb5C222617641f46CD7518111b55e43c",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+         "rate": 100,
+         "rewardsRatio1": 0,
+         "rewardsRatio2": 1,
+         "voteable": false,
+         "poolPid": 9,
+         "lpName": "USD+-DAI+",
+         "rewardToken":"0xEe32ED3AC2A431A0F0e1DBba46ba27AE8d072902",
+         "pair":"0x77cA2ddfd61D1D5E5d709cF07549FEC3E2d80315"
       }
    ],
    "closed":[
