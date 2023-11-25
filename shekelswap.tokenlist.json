@@ -102,6 +102,22 @@
             "logoURI": "https://arbiscan.io/token/images/overnightdai_32.png"
         },
         {
+            "name": "ETH+",
+            "address": "0xD4939D69B31fbE981ed6904A3aF43Ee1dc777Aab",
+            "symbol": "ETH+",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "OVN",
+            "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
+            "symbol": "OVN",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28229.png"
+        },
+        {
             "name": "YieldFarming Index",
             "address": "0xaaE0c3856e665ff9b3E2872B6D75939D810b7E40",
             "symbol": "YFX",
