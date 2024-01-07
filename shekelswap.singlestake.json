@@ -13,20 +13,20 @@
     "default"
   ],
   "active": [
+  ],
+  "closed": [
     {
       "token": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
       "stakingRewardAddress": "0x299111B4CB3a74328054C32aD447C5f4741ac04e",
-      "ended": false,
+      "ended": true,
       "lp": "",
       "name": "",
       "depFee": "0",
       "burnFee": "0",
       "baseToken": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-      "rate": 0.03225,
+      "rate": 0,
       "ending": 1670921264,
       "stakingToken": "0xF549Ce4082978524f651DEC918E738EEfE77c3bC"
     }
-  ],
-  "closed": [
   ]
 }
